@@ -1,1 +1,1 @@
-This is Khushi's fisrt git project.
+This is Khushi's first git project.
